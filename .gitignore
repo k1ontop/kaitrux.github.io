@@ -1,0 +1,5 @@
+# Archivos de entorno (¡Ignorar siempre!)
+.env
+
+# Carpeta de módulos de Node
+/node_modules
